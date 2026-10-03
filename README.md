@@ -66,7 +66,7 @@ import {Component} from "path";
 
 
 
-#  2 types Routing in web apps
+#  2 types Routing in web app
  - Client Side Routing
  - Server Side Routing
 
